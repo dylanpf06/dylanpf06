@@ -9,7 +9,6 @@ I'm passionate about **web development**, **system automation**, and **game serv
 
 ### 👨‍💻 What I Do
 - 💻 Fullstack development: **Front-End, Back-End & API creation (5+ years of experience)**
-- 
 - 🤖 Building all types of **Discord Bots**
 - 📱 Developing **Apps** and **Launchers** (FiveM, Minecraft & more)
 - ⚙️ Automating and configuring **Linux/Windows servers**
