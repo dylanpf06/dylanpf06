@@ -1,13 +1,30 @@
 <h2 align="left">Hello 👋! My name is Dylan and I am a Developer!</h2>
 
-###
+---
+
+## 🧠 About Me
+
+Hi! I'm Dylan — founder of **DevService** and **Ds Cloud** ☁️  
+I'm passionate about **web development**, **system automation**, and **game server infrastructure**.
+
+### 👨‍💻 What I Do
+- 💻 Fullstack development: **Front-End, Back-End & API creation**
+- 🤖 Building all types of **Discord Bots**
+- 📱 Developing **Apps** and **Launchers** (FiveM, Minecraft & more)
+- ⚙️ Automating and configuring **Linux/Windows servers**
+- 🔗 Working with **custom API integration**
+- 🌐 100% focused on building optimized, responsive **Websites**
+
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dylanpf06&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dylanpf06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+---
+
+## 🛠️ Languages & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
@@ -33,11 +50,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://imgur.com/LWWNLJK,png"  />
+## 📫 Connect with Me
 
-###
+<img align="right" height="150" src="https://imgur.com/LWWNLJK.png"  />
 
 <div align="left">
   <a href="https://discord.gg/ZbfXrQF58X" target="_blank">
@@ -60,6 +77,8 @@
   </a>
 </div>
 
-###
+---
 
-###
+<p align="center">
+  Let's build the future, one project at a time 🚀
+</p>
